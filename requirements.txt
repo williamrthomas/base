@@ -1,0 +1,14 @@
+langchain
+llama-index
+pymupdf
+openpyxl
+requests
+beautifulsoup4
+numpy
+pandas
+scikit-learn
+requests-cache
+openai
+PyYAML
+tiktoken # for counting tokens with OpenAI models
+python-dotenv # for loading environment variables

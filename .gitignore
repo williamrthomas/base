@@ -1,0 +1,8 @@
+# Ignore virtual environment directory
+.venv/
+.env
+
+# Ignore other sensitive files or directories
+__pycache__/
+*.pyc
+*.log
